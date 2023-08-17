@@ -3,3 +3,6 @@
   - Designed an ASIP using Verilog, including a 14-module datapath and control FSM on an Intel Cyclone V FPGA
   - Constructed a motor driver interface circuit using an SN754410 Half-H Driver chip
   - Utilized Intel Quartus Prime for simulation and testing of the ASIP and its modules. Additionally, wrote test programs in assembly to be run on ASIP.
+
+
+[quartus]: https://www.intel.ca/content/www/ca/en/products/details/fpga/development-tools/quartus-prime.html
